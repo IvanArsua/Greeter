@@ -24,5 +24,11 @@ namespace Greeter
         {
             InitializeComponent();
         }
+
+        private void btn_ClickMe_Click(object sender, RoutedEventArgs e)
+        {
+            string fullname = txt_FirstName.Text + " " + txt_LastName.Text;
+            MessageBox.Show("Hello " + fullname + ", Good evening!");
+        }
     }
 }
