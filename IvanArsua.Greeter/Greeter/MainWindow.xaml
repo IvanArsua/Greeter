@@ -5,8 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Greeter"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="314">
     <Grid>
-        
+        <Label x:Name="lbl_FirstName" Content="FirstName" HorizontalAlignment="Left" Height="28" Margin="10,10,0,0" VerticalAlignment="Top" Width="84"/>
+        <TextBox x:Name="txt_FirstName" HorizontalAlignment="Left" Height="22" Margin="77,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195"/>
+        <Label x:Name="lbl_LastName" Content="LastName" HorizontalAlignment="Left" Height="28" Margin="10,45,0,0" VerticalAlignment="Top" Width="84"/>
+        <TextBox x:Name="txt_LastName" HorizontalAlignment="Left" Height="22" Margin="77,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195"/>
+
     </Grid>
 </Window>

@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\bin\Debug\Greeter.exe.config
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\bin\Debug\Greeter.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\bin\Debug\Greeter.pdb
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\obj\Debug\Greeter.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\obj\Debug\Greeter_MarkupCompile.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\obj\Debug\Greeter_MarkupCompile.lref
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\obj\Debug\Greeter.g.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\obj\Debug\Greeter.Properties.Resources.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\obj\Debug\Greeter.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\obj\Debug\Greeter.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\obj\Debug\Greeter.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Projects\IvanArsua.Greeter\Greeter\obj\Debug\Greeter.pdb
