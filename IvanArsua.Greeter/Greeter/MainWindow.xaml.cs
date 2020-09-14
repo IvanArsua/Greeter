@@ -30,8 +30,10 @@ namespace Greeter
                 "Blue",
                 "Yellow",
                 "Green",
-                "Indigo",
-                "Violet"
+                "Black",
+                "Violet",
+                "White",
+                "Pink"
             };
             cbo_Color.ItemsSource = colors;
         }
@@ -39,7 +41,7 @@ namespace Greeter
         private void btn_ClickMe_Click(object sender, RoutedEventArgs e)
         {
             string fullname = txt_FirstName.Text + " " + txt_LastName.Text;
-            MessageBox.Show("Hello " + fullname + ", Good evening!");
+            MessageBox.Show("Hello " + fullname + ", Good evening! Your favorite color is " + cbo_Color.SelectedItem + ", I hope you're Having a good day! Be safe and godbless! " );
         }
 
         private void cbo_Color_SelectionChanged(object sender, SelectionChangedEventArgs e)
